@@ -1,0 +1,6 @@
+/* If you want to ad  your own css to react */
+/* Make sure you go to main.tsx to import */
+
+body {
+    background-color: rgb(194, 225, 225);
+}
